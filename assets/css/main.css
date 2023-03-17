@@ -1,12 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 
-/*
-	Aerial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -801,6 +795,11 @@ input, select, textarea {
 				-ms-transform: translate3d(-1500px,0,0);
 				transform: translate3d(-1500px,0,0);
 			}
+		}
+
+		#bg {
+			background-size: 1500px auto;
+			width: 4500px;
 		} }
 
 /* Normal */
@@ -878,6 +877,11 @@ input, select, textarea {
 				-ms-transform: translate3d(-750px,0,0);
 				transform: translate3d(-750px,0,0);
 			}
+		}
+
+		#bg {
+			background-size: 750px auto;
+			width: 2250px;
 		} }
 
 /* Mobile */
@@ -959,6 +963,11 @@ input, select, textarea {
 				-ms-transform: translate3d(-300px,0,0);
 				transform: translate3d(-300px,0,0);
 			}
+		}
+
+		#bg {
+			background-size: 300px auto;
+			width: 900px;
 		}
 
 	/* Header */
@@ -1052,6 +1061,11 @@ input, select, textarea {
 				-ms-transform: translate3d(-412.5px,0,0);
 				transform: translate3d(-412.5px,0,0);
 			}
+		}
+
+		#bg {
+			background-size: 412.5px auto;
+			width: 1237.5px;
 		}
 
 	/* Header */
