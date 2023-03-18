@@ -550,6 +550,7 @@ input, select, textarea {
 		background: rgba(0,0,0, 0.25);
 		border-radius: 0.5rem;
 		color: #fff;
+		max-width: 40rem;
 	}
 
 		#header h1 {
